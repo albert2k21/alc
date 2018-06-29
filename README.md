@@ -14,4 +14,7 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-https://github.com/oluwasegunadebanjoalbert/alc/
+
+
+https://github.com/oluwasegunadebanjoalbert/alc/ link to main repo
+https://oluwasegunadebanjoalbert.github.io/alc/. link to github page
